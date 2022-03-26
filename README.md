@@ -18,7 +18,7 @@ returns all the bands
 
 allows admin to create a band
 
-`POST /bands`
+`POST /bands/new`
 
 returns a specific item
 

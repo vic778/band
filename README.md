@@ -2,7 +2,7 @@
 
 > this API consists in creating a band which is associated with the members and different categoris. I used sterializer to associate the id of a member to a band. 
 
-![Demo](https://github.com/vic778/e-coomerce/blob/master/screen/demo.gif)
+![Screenshot](https://github.com/vic778/band/blob/master/screen/screen1.png)
 
 This API is made of three models:
 - Band model
